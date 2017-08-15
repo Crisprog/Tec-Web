@@ -1,55 +1,53 @@
-CRISTOPHER CRISPIM RA:1701604
-<meta charset="UTF-8"> 
-
-<p><strong>1) Da lista de tecnologias abaixo, aponte qual é executada no cliente e qual é executada no servidor </strong></p>
-<table border="1">
-	<tr><th>Tecnologia</th><th>Cliente</th><th>Servidor</th></tr>
-	<tr><td>Apache</td><td>&nbsp;</td><td>x</td></tr>
-	<tr><td>JavaScript</td><td>x</td><td>&nbsp;</td></tr>
-	<tr><td>Tomcat</td><td>&nbsp;</td><td>x</td></tr>
-	<tr><td>Java</td><td>&nbsp;</td><td>x</td></tr>
-	<tr><td>HTML</td><td>x</td><td>&nbsp;</td></tr>
-	<tr><td>PHP</td><td>&nbsp;</td><td>x</td></tr>
-	<tr><td>Apache</td><td>&nbsp;</td><td>x</td></tr>
-	<tr><td>MySQL</td><td>&nbsp;</td><td>x</td></tr>
-	<tr><td>XHTML</td><td>x</td><td>&nbsp;</td></tr>
-	<tr><td>MongoDB</td><td>&nbsp;</td><td>x</td></tr>
-	<tr><td>CSS</td><td>x</td><td>&nbsp;</td></tr>
-</table>
-
-<p><strong>2) Aponte as regiões da URL <code>http://www.impacta.com.br/eventos/default.php</code></strong></p>
-
-<p>RESPOSTA:</p> HTTP <b> Protocolo </b> <br> Impacta.com.br <b> Dominio  </b> <br> Eventos </b> <b> Path </b><br><b>Default.php </b><b>Recurso requisitado</b>  
-
-<p><strong>3) Quais outros protocolos de comunicação para troca de mensagens via internet existem? Pesquise e cite 3 exemplos, descrevendo sua função e aplicação.</strong></p>
-<ul>
+Cristopher Crispim Dos Santos RA:1701604
+  <meta charset="UTF-8"> 
+ 
+  <p><strong>1) Da lista de tecnologias abaixo, aponte qual é executada no cliente e qual é executada no servidor </strong></p>
+  <table border="1">
+ 	<tr><th>Tecnologia</th><th>Cliente</th><th>Servidor</th></tr>
+ 	<tr><td>Apache</td><td>&nbsp;</td><td>x</td></tr>
+ 	<tr><td>JavaScript</td><td>x</td><td>&nbsp;</td></tr>
+ 	<tr><td>Tomcat</td><td>&nbsp;</td><td>x</td></tr>
+ 	<tr><td>Java</td><td>&nbsp;</td><td>x</td></tr>
+ 	<tr><td>HTML</td><td>x</td><td>&nbsp;</td></tr>
+ 	<tr><td>PHP</td><td>&nbsp;</td><td>x</td></tr>
+ 	<tr><td>Apache</td><td>&nbsp;</td><td>x</td></tr>
+ 	<tr><td>MySQL</td><td>&nbsp;</td><td>x</td></tr>
+ 	<tr><td>XHTML</td><td>x</td><td>&nbsp;</td></tr>
+ 	<tr><td>MongoDB</td><td>&nbsp;</td><td>x</td></tr>
+ 	<tr><td>CSS</td><td>x</td><td>&nbsp;</td></tr>
+  </table>
+  
+  <p><strong>2) Aponte as regiões da URL <code>http://www.impacta.com.br/eventos/default.php</code></strong></p>
+  
+  <p>RESPOSTA:</p><b> HTTP:</b> Protocolo  <br><b>www.Impacta.com.br:</b> Dominio <br><b> Eventos:</b> Path</b><br><b>Default.php:</b> Recurso e requisitado
+ 
+  <p><strong>3) Quais outros protocolos de comunicação para troca de mensagens via internet existem? Pesquise e cite 3 exemplos, descrevendo sua função e aplicação.</strong></p>
+  <ul>
 	<li>
 		<p>
-			PROTOCOLO 1: <b>HTTP </b>: Protocolo usado para trocar informações.
-		</p>
-	</li>
-	<li>
-		<p>
-			PROTOCOLO 2: <b>FTP </b>:Usado para dowloads de arquivos.
-		</p>
-	</li>
-	<li>
-		<p>
-			PROTOCOLO 3:<b>HTTPs </b>:É inplementação do HTTP só com uma camada de segurança.
-		</p>
-	</li>
-</ul>
+ 			PROTOCOLO 1: <b>HTTP </b>: Protocolo usado para trocar informações.
+ 		</p>
+ 	</li>
+ 	<li>
+ 		<p>
+ 			PROTOCOLO 2: <b>FTP </b>:Usado para dowloads de arquivos.
+ 		</p>
+ 	</li>
+ 	<li
+    	<p>
+ 			PROTOCOLO 3:<b>HTTPs </b>:É inplementação do HTTP só com uma camada de segurança.
+ 		</p>
+ 	</li>
+ </ul>
+ 
+ <p><strong>4) Explore os sites de hospedagem do  (<a href="http://www.uolhost.uol.com.br/" target="_blank">http://www.uolhost.uol.com.br/</a>) e da LOCAWEB (<a href="https://www.locaweb.com.br" target="_blank">https://www.locaweb.com.br</a>), veja os serviços que eles oferecem. Qual desses serviços (em cada site) seria mais adequado para o seu site de desenvolvedor (páginas estáticas) e para a sua aplicação web?</strong></p>
+ 
+ <p>RESPOSTA:</p><b>O site local web é mais facil de achar e incontar infromaçães e o outro tem dificuldade de fazer conta.</b>
+ 
+ <p><strong>5) Pequisem sobre as limitações do HTTP 1.1 e como o HTTP2 vence essa limitação, cite 2 dessas limitações e suas respostas no HTTP2</strong></p>
+ 
+ <p>RESPOSTA:</p> <b>HTTP 1.1 <br>Insegurança: Dando como exemplo um caso não muito antigo, temos a NSA, que utilizou-se de interceptações de comunicação HTTP para capturar dados sem autorização de vários indíviduos, mas o problema real neste caso, é que hoje nem toda comunicação é feita utilizando SSL e mesmo as que atualmente utilizam tal forma de criptografia poderiam ser melhoradas.<br>
 
-<p><strong>4) Explore os sites de hospedagem do  (<a href="http://www.uolhost.uol.com.br/" target="_blank">http://www.uolhost.uol.com.br/</a>) e da LOCAWEB (<a href="https://www.locaweb.com.br" target="_blank">https://www.locaweb.com.br</a>), veja os serviços que eles oferecem. Qual desses serviços (em cada site) seria mais adequado para o seu site de desenvolvedor (páginas estáticas) e para a sua aplicação web?</strong></p>
-
-<p>RESPOSTA:</p><b>O site local web é mais facil de achar e incontar infromaçães e o outro tem dificuldade de fazer conta</b>
-
-<p><strong>5) Pequisem sobre as limitações do HTTP 1.1 e como o HTTP2 vence essa limitação, cite 2 dessas limitações e suas respostas no HTTP2</strong></p>
-
-<p>RESPOSTA:</p><br> <b> É preciso ficar claro que as aplicações e os sites atuais funcionarão normalmente com a nova versão do protocolo. No entanto quem se aproveitar das vantagens do HTTP/2 terão significativos ganhos de performance.
-
-As sintaxes e semântica dos métodos, status dos códigos, campos dos cabeçalhos e URIs foram mantidos com exatidão. A mudança está no tráfego das informações entre o cliente – leia-se navegador de internet, sensores e dispositivos diversos – e o servidor.
-
-Uma grande diferença entre o HTTP/1.1 e o HTTP/2 será sentida pelos desenvolvedores web em seus esforços de minificar arquivos e reduzir requisições ao servidor. A nova versão do protocolo HTTP e seu irmão SPDY trazem mudanças fundamentais para a Web. Recursos fantásticos que vão melhorar muito a performance da Web além de simplificar a vida dos desenvolvedores.
-
-No post anterior do Luiz Corte Real aqui no blog, apresentamos o SPDY e o HTTP 2.0, o que eles são e porque são importantes. Desde então, eu e ele apresentamos uma palestra com as novidades dos protocolos no QCon SP 2014. Vamos às novidades.</b>
+<br>Performance: Atualmente você envia uma requisição (request), espera o processamento do servidor e por fim recebe uma resposta (response), isso é até funcional, porém infelizmente tanto os cabeçalhos da request e também o corpo da response são poluídos e não recebem otimizações em momento algum, o que aumenta o trabalho de processamento e o volume de trafégo.</b>
+<br><br><b>HTTP2: Além de melhorar a experiência para o usuário, o HTTP/2 também deverá trazer benefícios para as companhias. “Com todas as novas otimizações técnicas, as empresas conseguirão uma melhor utilização da infraestrutura em geral. Isso vai trazer melhor ROI [retorno sobre investimento, na sigla em inglês] sobre o equipamento atual e irá gerar uma sobrevida para os aparelhos em uso”.
+“É interessante eles [os profissionais que trabalham na web] começarem a pesquisar se os provedores deles já têm planos para suportar HTTP/2. Verificar se a aplicação vai precisar de alguma alteração e se os fornecedores já estão suportando a tecnologia. Isso vai permitir que o site suporte o HTTP/2 quando o protocolo estiver ratificado, o que acredito que vá acontecer em abril ou maio”.</b>
