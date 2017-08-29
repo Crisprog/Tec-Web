@@ -1,0 +1,86 @@
+@charset "utf-8";
+/*Cristopher Crispim dos santos R.A: 1701604*/
+
+/*1º*/
+.tecweb{
+	font-family:Verdana;
+	font-size:12px;
+	text-align:center;
+	line-height: 20px;
+	color:red;
+}
+/*2º*/
+h1{
+	font-family:Verdana;
+	font-size:32px;
+	text-align:center;
+}
+
+.graduacao{
+	font-family:Verdana;
+	color:#09C;
+}
+.pos{
+	font-family:Verdana;
+	color:#00FF80;
+	font-weight:bold;
+}
+.mestrado{
+	font-family:Verdana;
+	color:yellow;
+	font-style:italic;
+}
+.doutorado{
+	font-family:verdana;
+	color:red;
+	text-decoration:underline;
+	
+}
+.primario{
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	color:#C287CB;
+	text-indent:50px;
+}
+.secundario{
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	color:#C287CB;
+	text-indent:80px;
+}
+/*3º*/
+table{
+	border: black;
+}
+td{
+	font-family:Verdana;
+	font-size:14px;
+	text-align:center;
+}
+	
+.aprovado{
+	font-family:Verdana;
+	font-size:18px;
+	color:#3C3;
+	font-weight:bold;
+	text-align:center;
+}
+.reprovado{
+	font-family:Verdana;
+	font-size:18px;
+	color:red;
+	font-weight:bold;
+	text-align:center;
+}
+.cor{
+	background-color:#CCC;
+}
+/*4º*/
+.div_1{
+	float:left;
+}
+.texto{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	color: black;
+}
